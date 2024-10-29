@@ -29,7 +29,7 @@ export const MainNavigator: FC = observer(() => (
 
           <Nav.Link
             target="_blank"
-            href="https://github.com/idea2app/Next-Bootstrap-TS"
+            href="https://github.com/Open-Source-Bazaar/Animal-Rescue"
           >
             {t('source_code')}
           </Nav.Link>

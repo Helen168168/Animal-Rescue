@@ -26,7 +26,7 @@ githubClient.use(({ request }, next) => {
   return next();
 });
 
-export const repositoryStore = new RepositoryModel('idea2app');
+export const repositoryStore = new RepositoryModel('Open-Source-Bazaar');
 
 type UploadedFile = Record<'originalname' | 'filename' | 'location', string>;
 /**
